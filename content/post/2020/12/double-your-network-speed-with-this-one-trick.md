@@ -22,14 +22,14 @@ So the network at home is basically like this:
 
 ```
 ( Internet )
- └ Cable modem (onboard WiFi disbaled)
+ └ Cable modem (onboard WiFi disabled)
   └ WiFi Router
    └ Power Line Adapter (attached to wall outlet)
 ```
 Then at the other, opposite and of the house, on another floor:
 ```
 PowerLine Adapter (attached to 6-way power strip)
- └ 1GiB Switch
+ └ 1GE Switch
   └ Desktop PC
 ```
 
@@ -47,7 +47,7 @@ You may have spotted the problem earlier in my awesome 'network diagram' above. 
 
 ```
 PowerLine Adapter (attached to wall outlet)
- └ 1GiB Switch
+ └ 1GE Switch
   └ Desktop PC
 ```
 
